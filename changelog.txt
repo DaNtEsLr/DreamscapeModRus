@@ -14,4 +14,4 @@ Changes
 > Removed half the walls
 
 --1.0--
-Initial release. 
+Initial release.
