@@ -1,5 +1,5 @@
-name: "Core: Memory"
-description: Core of the base. More fragile than the Nucleus, but has much better storage and a stronger unit.
+name: "Ядро: Память"
+description: Ядро Базы. Более хрупкий, чем Атом, но обладает гораздо лучшим хранилищем и более сильным кораблём.
 
 type: CoreBlock
 health: 5100

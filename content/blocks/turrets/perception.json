@@ -1,5 +1,5 @@
-name: Perception
-description: Has different shots depending on the ammo given. Accepts a wide range of ammo.
+name: Восприятие
+description: Имеет разные выстрелы в зависимости от предоставленных боеприпасов. Принимает широкий ассортимент боеприпасов.
 
 type: ItemTurret
 health: 1440

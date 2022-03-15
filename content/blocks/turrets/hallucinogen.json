@@ -1,5 +1,5 @@
-name: Hallucinogen
-description: Fires a strong overloading shot at enemies.
+name: Галлюциноген
+description: Стреляет сильным выстрелом с перегрузкой по врагам.
 
 type: ItemTurret
 health: 1680

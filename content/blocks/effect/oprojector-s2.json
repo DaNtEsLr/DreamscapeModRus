@@ -1,6 +1,6 @@
-name: Perceptive Generator
-description: Increases the speed of buildings within a distance from it.
-details: Time is always faster when one is sleeping.
+name: Генератор восприятия
+description: Увеличивает скорость зданий на расстоянии от него.
+details: Время всегда течет быстрее, когда человек спит.
 
 type: OverdriveProjector
 health: 150

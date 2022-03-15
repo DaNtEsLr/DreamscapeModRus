@@ -1,5 +1,5 @@
-name: Reminiscence
-description: Defends the Memory core from enemies, much stronger than the Gamma unit. Builds structures.
+name: Воспоминание
+description: Защищает ядро памяти от врагов, намного более сильных, чем Гамма-модуль. Строит сооружения.
 
 type: flying
 flying: true

@@ -1,5 +1,5 @@
-name: Dream Binder
-description: Forms essence into various units. Output units can be used directly, or moved into reimaginers for upgrading.
+name: Связующий сновидений
+description: Формирует сущность в различные единицы. Выходные блоки можно использовать напрямую или перемещать в переосмысления для модернизации.
 
 type: UnitFactory
 health: 420

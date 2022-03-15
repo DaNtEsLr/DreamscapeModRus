@@ -1,5 +1,5 @@
-name: Large Somnite Augmented Wall
-description: Protects structures from enemy bullets. Has a low chance to deflect bullets upon impact.
+name: Большая стена, дополненная Сомнитом
+description: Защищает сооружения от вражеских пуль. Имеет низкий шанс отразить пули при ударе.
 
 type: Wall
 health: 5040

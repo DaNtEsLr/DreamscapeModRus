@@ -1,5 +1,5 @@
-name: Large Lucidium Wall
-description: Protects structures from enemy bullets. Reflects most bullets upon impact and can release electric arcs.
+name: Большая Луцидум стена
+description: Защищает сооружения от вражеских пуль. Отражает большинство пуль при ударе и может испускать электрические дуги.
 
 type: Wall
 health: 2300

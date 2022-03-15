@@ -1,6 +1,6 @@
-name: Nocton
-description: Used in more advanced reality-bending technology.
-details: "[#5878c4]And the moon rose \n[#eeabff]And the dreams did too"
+name: Ноктон
+description: Используется в более продвинутых технологиях изменения реальности.
+details: "[#5878c4]И взошла луна \n[#eeabff]И сны тоже взошли"
 
 research: {
 	parent: insomnium

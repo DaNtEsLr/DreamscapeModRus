@@ -1,5 +1,5 @@
-name: Narcolepsy
-description: Fires a laser and a barrage of shots at enemies.
+name: Нарколепсия
+description: Стреляет лазером и производит шквал выстрелов по врагам.
 
 type: flying
 flying: true

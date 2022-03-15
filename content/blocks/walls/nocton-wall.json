@@ -1,5 +1,5 @@
-name: Nocton Wall
-description: Protects structures from enemy bullets. Absorbs lasers and electric arcs.
+name: Стена Ноктона
+description: Защищает сооружения от вражеских пуль. Поглощает лазеры и электрические дуги.
 
 type: Wall
 health: 675

@@ -1,5 +1,5 @@
-name: Daydream
-description: Releases a damaging cloud of bullets on ground enemies. Bullets can hit air enemies.
+name: Грезы
+description: Выпускает разрушительное облако пуль по наземным врагам. Пули могут поражать воздушных врагов.
 
 type: ItemTurret
 size: 2

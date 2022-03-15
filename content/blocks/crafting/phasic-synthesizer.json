@@ -1,5 +1,5 @@
-name: Phasic Synthesizer
-description: Synthesizes phase fabric from thorium, silicon and somnite.
+name: Фазовый синтезатор
+description: Синтезирует фазовую ткань из тория, кремния и сомнита.
 
 type: GenericCrafter
 health: 360

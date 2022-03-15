@@ -1,6 +1,6 @@
-name: Dreamtwister
-description: Mixes the essence of somnite with spore pods to produce insomium.
-details: A primitive and risky material is made in the process. However, it's well worth the ability to better handle the essence of dreams.
+name: Смерч снов
+description: Смешивает эссенцию сомнита со споровыми стручками для получения бессонницы.
+details: В процессе изготавливается примитивный и рискованный материал. Тем не менее, это стоит того, чтобы иметь возможность лучше справляться с сущностью снов.
 
 type: GenericCrafter
 health: 240

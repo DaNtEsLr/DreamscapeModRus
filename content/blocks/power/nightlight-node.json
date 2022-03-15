@@ -1,5 +1,5 @@
-name: Nightlight Node
-description: A durable and more advanced power node.
+name: Узел ночника
+description: Прочный и более продвинутый силовой узел.
 
 type: PowerNode
 health: 540

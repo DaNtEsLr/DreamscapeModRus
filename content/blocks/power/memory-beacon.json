@@ -1,5 +1,5 @@
-name: Memory Beacon
-description: A long-range power node with fewer available connections.
+name: Маяк памяти
+description: Узел питания на большие расстояния с меньшим количеством доступных подключений.
 
 type: PowerNode
 health: 420

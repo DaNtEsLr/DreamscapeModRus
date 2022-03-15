@@ -1,5 +1,5 @@
-name: Hypnagogia
-description: Fires a shrapnel shooting piercing shell and a barrage of shots at enemies.
+name: Гипнагогия
+description: Стреляет осколочно-пробивным снарядом и шквалом выстрелов по врагам.
 
 type: flying
 flying: true

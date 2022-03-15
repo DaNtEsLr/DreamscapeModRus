@@ -1,5 +1,5 @@
 name: Lucid Reverter
-description: "Repairs blocks over a huge range by directly altering their properties. \nCan consume lucidium to boost effectivity."
+description: "Восстанавливает блоки в огромном диапазоне, непосредственно изменяя их свойства. \n Может потреблять люцидум для повышения эффективности."
 
 type: MendProjector
 health: 210

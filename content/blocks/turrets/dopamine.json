@@ -1,5 +1,5 @@
-name: Dopamine
-description: Fires a strong overloading shot at enemies.
+name: Дофамин
+description: Стреляет сильным выстрелом с перегрузкой по врагам.
 
 type: ItemTurret
 health: 880

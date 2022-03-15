@@ -1,5 +1,5 @@
-name: Perception Infuser
-description: Simulates conscious brain activity and infuses it into a mixture of somnite and phase fabric.
+name: Наполнитель восприятия
+description: Имитирует сознательную мозговую активность и вливает ее в смесь сомнитной и фазовой ткани.
 
 type: GenericCrafter
 health: 450

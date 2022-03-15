@@ -1,5 +1,5 @@
-name: Void Photon Panel
-description: Uses darkness trapped in nocton to force interactions with photovoltaic cells.
+name: Пустотная Фотонная панель
+description: Использует темноту, заключенную в ноктоне, для принудительного взаимодействия с фотоэлектрическими элементами.
 
 type: SingleTypeGenerator
 health: 120

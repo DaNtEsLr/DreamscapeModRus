@@ -1,5 +1,5 @@
-name: Lucidium Wall
-description: Protects structures from enemy bullets. Reflects most bullets upon impact and can release electric arcs.
+name: Стена Люцидума
+description: Защищает сооружения от вражеских пуль. Отражает большинство пуль при ударе и может испускать электрические дуги.
 
 type: Wall
 health: 575

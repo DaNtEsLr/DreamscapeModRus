@@ -1,5 +1,5 @@
-name: Dusk Mixer
-description: Mixes somnite and insomnium with coal to produce nocton.
+name: Смеситель сумерек
+description: Смешивает сомнит и бессонницу с углем для получения ноктона.
 
 type: GenericSmelter
 health: 320

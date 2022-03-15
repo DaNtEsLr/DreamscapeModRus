@@ -1,5 +1,5 @@
-name: Dreamwaver
-description: Simulates sleep patterns to materialise dreams.
+name: Ткач снов
+description: Имитирует режим сна для материализации снов.
 
 type: GenericCrafter
 health: 120

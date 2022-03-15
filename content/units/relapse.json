@@ -1,5 +1,5 @@
-name: Relapse
-description: Flies towards enemies and self-destructs, dropping a cluster of bombs.
+name: Рецидив
+description: Летит навстречу врагам и самоуничтожается, сбрасывая скопление бомб.
 
 type: flying
 flying: true

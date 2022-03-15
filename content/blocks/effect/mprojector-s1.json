@@ -1,5 +1,5 @@
-name: Dream State Inducer
-description: "Repairs blocks over a large range by reverting them to previous states. \nCan consume insomnium to boost effectivity."
+name: Индуктор состояния Сна
+description: "Восстанавливает блоки в большом диапазоне, возвращая их в предыдущие состояния. \nМожет потреблять бессонницу для повышения эффективности."
 
 type: MendProjector
 health: 60

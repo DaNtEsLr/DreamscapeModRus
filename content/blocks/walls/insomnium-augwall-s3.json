@@ -1,5 +1,5 @@
-name: Large Insomnium Augmented Wall
-description: Protects structures from enemy bullets. Has a low chance to deflect bullets upon impact.
+name: Большая Стена, дополненная Бессонницей
+description: Защищает сооружения от вражеских пуль. Имеет низкий шанс отразить пули при ударе.
 
 type: Wall
 health: 6930

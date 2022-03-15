@@ -1,6 +1,6 @@
-name: Lucidium
-description: Used in the most advanced of reality-bending technology.
-details: "[#54d4b5]The universe is at your fingertips now."
+name: Люцидум
+description: Используется в самых передовых технологиях изменения реальности.
+details: "[#54d4b5]Вселенная теперь у вас под рукой."
 
 research: {
 	parent: somnite

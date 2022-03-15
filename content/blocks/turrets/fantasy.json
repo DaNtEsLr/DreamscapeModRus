@@ -1,5 +1,5 @@
-name: Fantasy
-description: Materialises damaging particles and aims them towards enemies.
+name: Фантазия
+description: Материализует разрушительные частицы и направляет их на врагов.
 
 type: ItemTurret
 size: 5

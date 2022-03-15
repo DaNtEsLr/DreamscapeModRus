@@ -1,5 +1,5 @@
-name: Large Nocton Wall
-description: Protects structures from enemy bullets, reflecting most bullets upon impact and sometimes releasing electric arcs upon contact.
+name: Большая стена Ноктона
+description: Защищает сооружения от вражеских пуль, отражая большинство пуль при ударе и иногда испуская электрические дуги при контакте.
 
 type: Wall
 health: 2700

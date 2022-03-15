@@ -1,6 +1,6 @@
-name: Insomnium
-description: Used in more advanced reality-bending technology.
-details: A vessel for a dream... but at what cost?
+name: Бессонница
+description: Используется в более продвинутых технологиях изменения реальности.
+details: Сосуд для мечты... Но какой ценой?
 
 research: {
 	parent: somnite

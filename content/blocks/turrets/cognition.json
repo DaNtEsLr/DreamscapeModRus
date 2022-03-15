@@ -1,5 +1,5 @@
-name: Cognition
-description: Fires electrified shots at enemies.
+name: Познание
+description: Стреляет наэлектризованными выстрелами по врагам.
 
 type: ItemTurret
 health: 880
